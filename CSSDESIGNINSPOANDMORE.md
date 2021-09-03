@@ -1,12 +1,12 @@
 # CSS DESIGN INSPIRATION + MORE
 
-[Web Developer Reacts to Incredible Personal Websites // Personal Portfolios](https://www.youtube.com/watch?v=BZqzhmlTkAc)
+FilipDev - [Web Developer Reacts to Incredible Personal Websites // Personal Portfolios](https://www.youtube.com/watch?v=BZqzhmlTkAc)
 
-[These Personal Websites are just WOW...](https://youtu.be/S7V0-QvYbdo)
+FilipDev - [These Personal Websites are just WOW...](https://youtu.be/S7V0-QvYbdo)
 
-[10 Stunning CSS 3D Effect You Must See](https://www.youtube.com/watch?v=bjUoQbSJDJs)
+RedStapler_channel - [10 Stunning CSS 3D Effect You Must See](https://www.youtube.com/watch?v=bjUoQbSJDJs)
 
-[10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
+Fireship - [10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
 
 ### 10 CSS Pro Tips - Code this, NOT that! // NOTES
 
@@ -53,13 +53,13 @@
 
 ###### // END NOTES // ######
 
-[12 Cool CSS Buttons Ideas and Inspirations](https://www.youtube.com/watch?v=XYiZg0msGwU)
+RedStapler_channel - [12 Cool CSS Buttons Ideas and Inspirations](https://www.youtube.com/watch?v=XYiZg0msGwU)
 
-[Make Awesome SVG Animations with CSS // 7 Useful Techniques](https://youtu.be/UTHgr6NLeEw)
+Fireship - [Make Awesome SVG Animations with CSS // 7 Useful Techniques](https://youtu.be/UTHgr6NLeEw)
 
-[Best (and worst!) ways to center WITHOUT flex or grid](https://youtu.be/87YMCtsBoCM)
+kepowob (Kevin Powell) - [Best (and worst!) ways to center WITHOUT flex or grid](https://youtu.be/87YMCtsBoCM)
 
-[2 UI/UX Tools I use for all my Web Dev Projects](https://youtu.be/18IXRGhlyKg)
+FilipDev - [2 UI/UX Tools I use for all my Web Dev Projects](https://youtu.be/18IXRGhlyKg)
 
 []()
 
