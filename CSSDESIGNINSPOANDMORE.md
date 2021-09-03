@@ -8,7 +8,9 @@ RedStapler_channel - [10 Stunning CSS 3D Effect You Must See](https://www.youtub
 
 Fireship - [10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
 
-### 10 CSS Pro Tips - Code this, NOT that! // NOTES
+### 10 CSS Pro Tips - Code this, NOT that! 
+
+###### // NOTES // ######
 
             Use Firefox dev tools, not Chrome, to debug CSS
 
