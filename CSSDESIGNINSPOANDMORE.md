@@ -66,3 +66,5 @@ FilipDev - [2 UI/UX Tools I use for all my Web Dev Projects](https://youtu.be/18
 Kevin Powell on Medium - [Cropping Away Negative Impacts of Line Height](https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce)
 
 W3Schools - [The clear Property](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_class-clear)
+
+Alligator.io - [Posts About CSS](https://alligator.io/css/)
