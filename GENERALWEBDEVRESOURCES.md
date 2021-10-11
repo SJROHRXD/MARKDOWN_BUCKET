@@ -178,10 +178,82 @@ We began as a mailing list in 1997 and launched this website in 1998. You can vi
 [Getting started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 -
 
-[]()
+[Mimic Relative Positioning Inside an SVG with Nested SVGs](https://www.sarasoueidan.com/blog/mimic-relative-positioning-in-svg/)
 -
 
-[]()
+[unDraw](https://undraw.co/search)
+-
+
+[ICONS](https://www.iconfinder.com/search?q=desktop+computer&designer=ratch0013)
+-
+
+[Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+-
+
+[CLEAN CSS](https://www.cleancss.com/)
+-
+
+[Node.js How to make a Login and Logout App using HandleBars-Sequelize-Sessions](https://www.youtube.com/watch?v=wGbKLr2VemM)
+-
+
+[Using Layout, Partials with Handlebars Template](https://stackoverflow.com/questions/39657623/using-layout-partials-with-handlebars-template)
+-
+
+[Sign-in and Registration - TAIILWIND](https://tailwindui.com/components/application-ui/forms/sign-in-forms)
+-
+
+[Embedded JS Partials - Determining whether a user is logged in](https://stackoverflow.com/questions/35117454/embedded-js-partials-determining-whether-a-user-is-logged-in?lq=1)
+-
+
+[Losing persisted user in Handlebars Partial View](https://stackoverflow.com/questions/47799983/losing-persisted-user-in-handlebars-partial-view)
+-
+
+[How to remove local untracked files from the current Git branch](https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1)
+-
+
+[A Beginner’s Guide to Handlebars](https://www.sitepoint.com/a-beginners-guide-to-handlebars/)
+-
+
+[Build User Authentication with Node.js, Express, Passport, and MongoDB](https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-mongodb)
+-
+
+[Losing persisted user in Handlebars Partial View](https://stackoverflow.com/questions/47799983/losing-persisted-user-in-handlebars-partial-view)
+-
+
+[ICONS](https://iconarchive.com/show/papirus-places-icons-by-papirus-team/user-magenta-home-icon.html)
+-
+
+[2.3 HTTP Post Request with fetch() - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=Kw5tC5nQMRY)
+-
+
+[Building Page Templates in ExpressJS With Handlebars](https://hackersandslackers.com/handlebars-templates-expressjs/)
+-
+
+[COOL AND RESPONSIVE BUTTONS WITH A FEW LINES OF CSS](https://fdossena.com/?p=html5cool/buttons/i.frag)
+-
+
+[CodePen - Paper Plane Animation (CSS)](https://codepen.io/_ItsJonQ/pen/yvfDF?editors=1100)
+-
+
+[BINARY TO TEXT TRANSLATE](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+-
+
+[BYPASS PAYWALLS CHROME EXT](https://github.com/iamadamdev/bypass-paywalls-chrome)
+-
+
+[Floppy Disk THEMES AND ART](https://dribbble.com/tags/floppy_disk)
+-
+
+[30 YEARS OF CONSUMER STORAGE](https://in.pcmag.com/storage/41766/30-years-of-consumer-storage-from-floppy-disks-to-ssds)
+-
+
+[The Art of Warez: An Interview with Oliver Payne](https://medium.com/@clairemeadows/the-art-of-warez-an-interview-with-2a5af17b0f87)
+-
+
+[ANSI MENUS](http://www.therockbbs.net/?page_id=23)
+-
+
+[UNSPLASH, FREE IMAGES](https://unsplash.com/photos/ZdOW9Qd8mQo)
 -
 
 []()
